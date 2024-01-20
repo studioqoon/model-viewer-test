@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    overflow: hidden;
+
+}
+#container {
+    width: 80%;
+    height: 80%;
+    margin: 100 auto;
+}
+model-viewer {
+    height: 100%;
+    width: 100%;
+}
